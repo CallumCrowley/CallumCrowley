@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CallumCrowley
-- 👀 I'm a Microsoft 365 specialist and SharePoint enthusiast
+- 👀 I work as a Microsoft 365 specialist at <a href="https://method4.co.uk">Method4<a/> and I'm a SharePoint enthusiast
 - 💞️ I spend a lot of my time on the SharePoint stack exchange and GitHub helping the community understand SharePoint through answers and documentation
 - You can find my blogs <a href="https://callum.technology">here<a/>
 - Follow me on <a href="https://twitter.com/CallumNCrowley">Twitter</a> or drop me an <a href="mailto:callumneilcrowley@outlook.com">email</a>
